@@ -60,3 +60,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+.DS-Store
+.envrc
+.direnv
+complaints_dec_2014.csv
